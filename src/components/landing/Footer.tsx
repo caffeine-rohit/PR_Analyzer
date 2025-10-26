@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="flex items-center gap-2 text-gray-400">
             <span>Made with</span>
             <Heart className="w-4 h-4 text-pink-500 fill-pink-500" />
-            <span>by developers, for developers</span>
+            <span>by Rohit, for developers</span>
           </div>
 
           <div className="flex items-center gap-6">
